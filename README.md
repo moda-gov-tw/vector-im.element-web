@@ -395,3 +395,8 @@ For a developer guide, see the [translating dev doc](docs/translating-dev.md).
 Issues are triaged by community members and the Web App Team, following the [triage process](https://github.com/vector-im/element-meta/wiki/Triage-process).
 
 We use [issue labels](https://github.com/vector-im/element-meta/wiki/Issue-labelling) to sort all incoming issues.
+
+## 軟體中文化
+
+本專案為數位部開放原始碼軟體中文化專案項目之一，其中文化與專案應用可參考 [Wiki](https://github.com/moda-gov-tw/vector-im.element-web/wiki)。
+
